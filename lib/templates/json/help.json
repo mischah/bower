@@ -69,6 +69,10 @@
         {
             "flag":        "--no-color",
             "description": "Disable colors"
+        },
+        {
+            "flag":        "--no-interactive",
+            "description": "Disable prompts during executing commands"
         }
     ]
 }
